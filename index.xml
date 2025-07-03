@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TestSite</title>
+    <link>https://mattwoodbury.github.io/</link>
+    <description>Recent content on TestSite</description>
+    <image>
+      <title>TestSite</title>
+      <url>https://mattwoodbury.github.io/images/papermod-cover.png</url>
+      <link>https://mattwoodbury.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <copyright>2025</copyright>
+    <lastBuildDate>Wed, 02 Jul 2025 21:33:59 -0400</lastBuildDate>
+    <atom:link href="https://mattwoodbury.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://mattwoodbury.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 02 Jul 2025 21:33:59 -0400</pubDate>
+      <guid>https://mattwoodbury.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Here is some useless text to test.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
